@@ -1,0 +1,2122 @@
+,manufacturer,main_type,built_year,first_registration_date,has_all_wheel_drive,horsepower,handover_key_count,length,width,height,mileage,kw,price,evaluation_datetime,fuel,gear,ac,gps,color
+0,Audi,1er,  2006_year ,8/14/2006,,108,2,3594,2039,1501,306389,80,1302,6/29/2018 16:22,Benzin,Manual,Manual,,red
+1,BMW,206,  2009_year ,6/24/2009,,59,2,3736,2159,1462,183210,43,3153,6/1/2018 13:30,Benzin,Manual,Manual,,black
+2,Audi,1er,  2002_year ,12/27/2002,,168,2,3452,2333,1486,203049,124,1793,5/26/2018 15:14,Benzin,Manual,Auto,,brown
+3,Citroen,207,  2003_year ,2/7/2003,,218,2,3495,2150,1445,344348,161,3261,6/23/2018 16:48,Diesel,Auto_or_Hybrid,Auto,Big,silver
+4,Dacia,307,  2004_year ,2/25/2005,,69,2,3586,2163,1451,242488,51,805,9/2/2018 15:13,Benzin,Manual,Manual,,brown
+5,BMW,3er,  2003_year ,9/15/2003,,89,2,3724,2282,1485,280092,66,761,8/18/2018 14:25,Diesel,Manual,Auto,,red
+6,BMW,5,  2005_year ,7/27/2005,,108,2,3568,2384,1652,235328,79,1689,7/6/2018 15:36,Diesel,Manual,Auto,Big,brown
+7,Citroen,207,  2005_year ,3/31/2006,,262,2,3596,1984,1468,239409,194,4817,9/9/2018 11:45,Diesel,Auto_or_Hybrid,Auto,Big,red
+8,Dacia,307,  2002_year ,2/6/2003,,72,1,3597,2191,1451,135467,53,730,8/27/2018 17:49,Benzin,Manual,Manual,,brown
+9,Citroen,500,  2006_year ,4/26/2006,,113,2,3840,2020,1420,172563,83,5368,6/17/2018 14:24,Benzin,Manual,Auto,,brown
+10,Fiat,5er,  2007_year ,6/15/2007,,133,1,3753,2285,1603,211896,98,2568,6/12/2018 12:19,Diesel,Auto_or_Hybrid,Manual,,red
+11,Audi,1er,  2014_year ,6/30/2014,,115,1,3915,1972,1484,63096,85,7892,8/9/2018 10:45,Diesel,Manual,Auto,,red
+12,Citroen,207,  2004_year ,11/23/2004,,173,2,3607,2177,1491,83906,127,9815,4/22/2018 15:21,Benzin,Auto_or_Hybrid,Auto,,red
+13,Ford,6,  2008_year ,2/26/2009,,131,1,3461,2122,1480,250866,97,1884,7/27/2018 10:32,Benzin,Manual,Manual,,white
+14,BMW,5,  2007_year ,2/1/2007,,161,2,3651,2078,1635,388932,118,2182,6/14/2018 17:53,Diesel,Manual,Manual,Big,red
+15,Honda,911,  2008_year ,2/19/2008,,108,2,3747,2391,1397,57372,79,2770,10/1/2018 14:13,Diesel,Manual,,,brown
+16,Hyundai,A-Klasse,  2003_year ,12/17/2003,,156,3,3522,2004,1525,194577,115,1936,7/23/2018 16:54,Benzin,Auto_or_Hybrid,Auto,Big,beige
+17,Citroen,500,  2012_year ,1/22/2013,,139,2,3904,1966,1429,60040,102,16545,6/28/2018 11:45,Diesel,Manual,Auto,Big,purple
+18,Honda,A3,  2004_year ,12/27/2004,,97,2,3690,2012,1373,113301,71,1625,5/13/2018 16:28,Benzin,Manual,Auto,,silver
+19,Kia,A4,  2006_year ,5/22/2006,,156,2,3479,2185,1411,147659,115,3242,10/17/2018 14:50,Benzin,Manual,Auto,Big,red
+20,Land Rover,A5,  2009_year ,2/5/2009,,139,1,3661,2153,1436,280742,102,6192,7/16/2018 13:43,Diesel,Auto_or_Hybrid,Auto,Big,red
+21,Kia,A6,  2006_year ,6/14/2007,,246,1,3670,2099,1449,120249,182,3844,8/14/2018 15:50,Benzin,Manual,Auto,Big,purple
+22,MINI,Astra,  2012_year ,2/22/2012,1,199,2,,1793,1365,99974,147,18752,7/8/2018 13:35,Diesel,Manual,Auto,Big,red
+23,Audi,Avensis,  2011_year ,3/23/2011,,197,2,3789,2102,1548,222649,144,5443,6/27/2018 15:41,Diesel,Manual,Auto,Big,brown
+24,Citroen,B-Klasse,  2003_year ,7/23/2003,1,193,2,3555,2289,1712,347720,141,2315,7/7/2018 15:34,Diesel,Auto_or_Hybrid,Auto,,brown
+25,Fiat,C-Klasse,  2001_year ,7/24/2001,,171,1,3607,2364,1406,303212,126,1071,9/13/2018 12:02,Benzin,Auto_or_Hybrid,Auto,Big,purple
+26,Land Rover,C-Max,  2011_year ,10/26/2011,1,186,2,3897,2079,1423,74158,137,9956,5/12/2018 17:44,Diesel,Manual,Manual,,purple
+27,Mazda,C4,  2010_year ,12/16/2010,,119,2,3710,2201,1695,69876,87,5380,9/14/2018 16:39,Benzin,Manual,Manual,,beige
+28,Fiat,C5,  2009_year ,11/9/2009,,141,2,3745,2032,1464,389195,104,5550,10/23/2018 18:20,Diesel,Auto_or_Hybrid,Auto,Big,red
+29,BMW,CR-V,  2004_year ,3/1/2005,,131,1,3530,2113,1485,122801,97,2216,9/27/2018 14:24,Benzin,Manual,Auto,,brown
+30,Mercedes-Benz,Caddy,  2009_year ,6/2/2009,,40,2,3491,2044,1542,109356,30,3729,7/9/2018 17:58,Diesel,Auto_or_Hybrid,Auto,,purple
+31,Land Rover,A5,  2008_year ,4/28/2008,1,263,2,3739,1951,1427,68324,194,10540,8/16/2018 12:24,Benzin,Auto_or_Hybrid,Auto,Big,brown
+32,Audi,Avensis,  2002_year ,9/20/2002,,175,1,3508,2091,1441,126269,129,1967,7/3/2018 10:23,Benzin,Manual,Auto,,red
+33,Land Rover,A5,  2007_year ,7/11/2007,1,167,2,3663,2188,1428,167549,123,5096,5/23/2018 12:38,Benzin,Manual,Auto,,red
+34,Land Rover,Civic,  2003_year ,4/29/2003,,126,2,3734,2238,1452,262693,93,2969,6/27/2018 13:12,Diesel,Manual,Front,Big,purple
+35,BMW,CR-V,  2004_year ,1/14/2005,,71,2,3678,2411,1485,94412,52,2584,6/18/2018 15:47,Benzin,Manual,Manual,,purple
+36,Land Rover,Clio,  2014_year ,10/15/2014,,151,2,4280,1802,1391,48547,111,19968,9/29/2018 11:12,Benzin,Auto_or_Hybrid,Auto,Big,red
+37,Fiat,Corsa,  2005_year ,7/1/2005,1,158,2,3635,2225,1820,91345,116,4403,7/29/2018 12:59,Diesel,Auto_or_Hybrid,Auto,Big,silver
+38,Nissan,Duster,  2004_year ,11/14/2003,,81,2,3561,2361,1440,130519,59,2084,5/11/2018 18:38,Benzin,Manual,Manual,,red
+39,Kia,E-Klasse,  2010_year ,11/18/2010,,150,2,3695,2163,1615,61388,110,6653,7/16/2018 11:24,Benzin,Manual,Manual,Big,silver
+40,Mercedes-Benz,Caddy,  2000_year ,4/25/2000,,50,1,3457,2128,1529,64972,37,816,9/14/2018 15:49,Benzin,Auto_or_Hybrid,Manual,,red
+41,BMW,CR-V,  2004_year ,3/29/2004,,100,2,3497,2079,1485,73710,74,4110,6/20/2018 10:22,Benzin,Auto_or_Hybrid,Auto,,red
+42,Fiat,C-Klasse,  2009_year ,6/30/2009,,188,2,3917,1867,1447,20499,137,9729,9/21/2018 11:18,Benzin,Auto_or_Hybrid,Auto,Big,brown
+43,Citroen,500,  2012_year ,9/28/2012,,118,2,4010,2007,1429,102935,87,11508,6/2/2018 16:55,Diesel,Manual,Auto,Big,beige
+44,Kia,Evoque,  2009_year ,7/28/2009,,100,2,3489,2320,1488,197674,73,2193,5/15/2018 16:14,Benzin,Manual,Manual,,white
+45,Citroen,Fabia,  2011_year ,3/15/2011,,153,2,3680,1884,1573,106218,113,11701,9/15/2018 16:44,Benzin,Manual,Auto,Big,red
+46,Ford,6,  2011_year ,4/5/2011,,105,2,3769,2055,1480,127987,76,4103,8/31/2018 14:59,Benzin,Manual,Auto,,red
+47,Kia,Fiesta,  2006_year ,11/16/2006,,164,2,3515,2306,1645,219424,120,2268,10/9/2018 14:07,Diesel,Auto_or_Hybrid,Auto,Big,brown
+48,Opel,Focus,  2014_year ,9/30/2014,,91,2,3888,2241,1448,46944,67,7969,9/13/2018 15:18,Benzin,Manual,Manual,Big,black
+49,Peugeot,Golf IV,  2010_year ,7/29/2010,,100,2,3855,2094,1645,117350,73,7286,7/12/2018 10:32,Benzin,Manual,Auto,,white
+50,Citroen,207,  2008_year ,6/3/2008,,201,2,3792,2286,1491,275539,148,3751,6/8/2018 19:00,Diesel,Manual,Auto,Big,red
+51,Kia,Evoque,  2001_year ,10/24/2001,,65,2,3516,2200,1440,170873,48,333,7/28/2018 15:13,Benzin,Manual,,,purple
+52,Porsche,Golf Plus,  2010_year ,7/8/2010,,68,2,3723,2031,1488,109882,49,5114,5/5/2018 12:49,Benzin,Manual,Manual,,white
+53,Citroen,500,  2012_year ,3/21/2013,,174,2,4052,1923,1429,62838,127,21306,6/10/2018 16:19,Benzin,Auto_or_Hybrid,Auto,,black
+54,Nissan,Duster,  2008_year ,3/13/2008,,179,2,3786,2170,1445,162893,132,7170,6/26/2018 13:45,Benzin,Manual,Auto,,red
+55,Kia,Golf V,  2012_year ,5/22/2012,,116,1,3683,2350,1498,139672,86,6627,9/28/2018 10:05,Diesel,Manual,Auto,Big,purple
+56,Land Rover,A5,  2004_year ,11/2/2004,,186,2,3496,2021,1428,194206,137,2022,6/22/2018 13:27,Benzin,Auto_or_Hybrid,Auto,Big,purple
+57,Porsche,Golf VI,  2009_year ,6/5/2009,,98,2,3624,2208,1490,51869,72,2495,5/18/2018 14:13,Benzin,Manual,Auto,,purple
+58,Ford,6,  2007_year ,10/22/2007,,79,2,3614,2139,1480,195717,58,1849,9/25/2018 15:47,Diesel,Manual,Manual,,brown
+59,Fiat,C-Klasse,  2004_year ,10/5/2004,,184,2,3786,2178,1406,96543,136,4289,9/4/2018 10:22,Benzin,Auto_or_Hybrid,Auto,Big,brown
+60,Renault,Golf VII,  2010_year ,6/20/2012,,102,2,3761,1966,1510,82922,74,4494,5/22/2018 16:30,Benzin,Manual,Manual,,black
+61,Peugeot,Golf IV,  2008_year ,3/12/2009,,154,2,3722,2098,1645,229187,113,3896,6/17/2018 15:52,Diesel,Manual,Auto,,red
+62,Kia,A4,  2010_year ,1/6/2011,,110,2,3570,2287,1535,85779,81,6861,10/5/2018 12:00,Benzin,Manual,Auto,,white
+63,Porsche,Golf Plus,  2010_year ,12/29/2010,,61,2,3762,2192,1488,63104,45,4666,7/8/2018 15:08,Benzin,Manual,Manual,Mobile,red
+64,Citroen,207,  2009_year ,2/18/2009,,176,2,3777,2093,1468,149812,129,7573,4/28/2018 14:48,Diesel,Auto_or_Hybrid,Auto,,brown
+65,Seat,Grande Punto,  2014_year ,3/24/2014,,187,2,4144,1917,1547,107923,138,15866,7/7/2018 16:18,Diesel,Auto_or_Hybrid,Auto,,brown
+66,Peugeot,Golf IV,  2008_year ,11/17/2008,,154,2,3884,2055,1645,122850,114,5609,4/25/2018 15:37,Benzin,Auto_or_Hybrid,Auto,,red
+67,Opel,Ibiza,  2009_year ,7/30/2009,,119,2,3502,2127,1423,166512,88,4930,5/4/2018 12:42,Benzin,Manual,Manual,,white
+68,BMW,Insignia,  2004_year ,10/6/2004,,152,2,3690,2382,1498,209677,112,1050,7/8/2018 10:16,Diesel,Manual,Auto,Big,red
+69,Dacia,Kuga,  2008_year ,1/12/2009,,159,2,3447,2415,1455,289279,117,3099,8/1/2018 11:02,Diesel,Manual,Auto,Big,red
+70,Kia,E-Klasse,  2005_year ,5/10/2005,,89,2,3571,2179,1624,81675,66,3082,6/15/2018 12:55,Benzin,Auto_or_Hybrid,Manual,,silver
+71,Land Rover,A5,  2008_year ,10/30/2008,1,258,2,3747,2094,1391,202658,190,5890,8/28/2018 13:19,Diesel,Auto_or_Hybrid,Auto,Big,red
+72,Seat,Leon,  2003_year ,12/30/2002,1,240,1,3474,2371,1743,146091,176,1708,9/25/2018 10:43,Benzin,Auto_or_Hybrid,Manual,Big,red
+73,Fiat,C5,  2013_year ,6/27/2013,,154,1,4107,1963,1456,78581,113,18413,10/1/2018 17:21,Diesel,Auto_or_Hybrid,Auto,Big,white
+74,Land Rover,A5,  2005_year ,4/5/2005,1,219,2,3455,2220,1427,363933,160,3573,6/1/2018 16:11,Diesel,Manual,Auto,Big,brown
+75,Citroen,M-Klasse,  2010_year ,5/7/2010,,99,1,3494,2090,1421,201925,73,2832,8/29/2018 14:41,Diesel,Manual,Auto,,red
+76,Land Rover,Civic,  2011_year ,12/14/2011,,172,2,4007,2106,1461,93787,126,16844,6/12/2018 16:03,Diesel,Manual,Auto,Big,red
+77,Dacia,307,  2009_year ,4/20/2009,,85,2,3713,2210,1498,110445,63,2758,5/8/2018 17:46,Benzin,Manual,Manual,,red
+78,Skoda,MINI,  2007_year ,2/22/2007,,118,2,3777,2338,1615,133684,87,2851,9/15/2018 12:59,Benzin,Manual,Manual,,brown
+79,Citroen,207,  2009_year ,4/2/2009,,308,2,3935,2186,1491,152416,226,9358,7/23/2018 18:47,Benzin,Auto_or_Hybrid,Auto,Big,brown
+80,Fiat,C5,  2000_year ,5/17/2000,,179,1,3630,2110,1440,120103,131,1162,8/25/2018 9:26,Benzin,Auto_or_Hybrid,Manual,,purple
+81,Citroen,M-Klasse,  2006_year ,12/22/2006,,114,1,3627,2271,1430,152816,85,4640,8/22/2018 14:00,Benzin,Manual,Auto,,red
+82,BMW,5,  2009_year ,5/4/2009,,115,1,3485,2307,1635,182973,84,4196,8/7/2018 16:20,Diesel,Manual,Auto,Big,brown
+83,Audi,1er,  2003_year ,8/5/2004,,114,2,3407,2184,1532,246767,84,74,9/20/2018 9:07,Benzin,Manual,Manual,,red
+84,Kia,A4,  2006_year ,2/9/2006,,77,1,3611,2073,1460,150423,57,1918,5/27/2018 14:08,Benzin,Manual,Manual,,red
+85,Land Rover,Clio,  2009_year ,10/21/2009,,218,2,3937,1858,1383,144719,160,10692,7/10/2018 15:30,Diesel,Auto_or_Hybrid,Auto,Big,purple
+86,Citroen,500,  2006_year ,3/20/2006,,,2,3576,2192,1440,414327,105,2519,6/23/2018 17:52,Diesel,Manual,Auto,,brown
+87,BMW,Megane,  2014_year ,3/5/2014,,241,2,4168,1901,1452,53343,177,19696,8/18/2018 16:33,Benzin,Auto_or_Hybrid,Auto,Big,red
+88,Land Rover,C-Max,  2000_year ,11/10/2000,,140,2,3567,2268,1427,161013,103,786,6/14/2018 17:30,Benzin,Auto_or_Hybrid,Auto,,red
+89,Citroen,M-Klasse,  2007_year ,11/28/2007,,127,2,3466,2067,1421,216231,93,2789,7/2/2018 14:01,Benzin,Manual,Auto,Big,red
+90,Citroen,207,  2007_year ,4/23/2007,,160,2,3572,2322,1491,166615,118,4314,9/27/2018 14:30,Diesel,Auto_or_Hybrid,Auto,Big,brown
+91,Hyundai,Meriva,  2006_year ,10/5/2006,,91,2,3754,2092,1530,,67,3446,10/14/2018 11:22,Benzin,Auto_or_Hybrid,Manual,,brown
+92,Audi,Avensis,  2005_year ,10/24/2005,,111,2,3642,2118,1427,202589,82,870,4/13/2018 9:47,Diesel,Manual,Auto,,brown
+93,BMW,CR-V,  2007_year ,7/6/2007,,100,1,3752,2203,1485,232965,74,2510,6/8/2018 10:04,Benzin,Manual,Manual,,purple
+94,BMW,Insignia,  2007_year ,1/31/2007,,144,2,3514,2184,1472,189288,106,4430,8/24/2018 15:48,Diesel,Manual,Auto,Big,red
+95,Citroen,M-Klasse,  2007_year ,2/13/2007,,146,1,3883,2034,1430,81391,106,5648,5/13/2018 11:37,Benzin,Auto_or_Hybrid,Auto,,gray
+96,Citroen,B-Klasse,  2007_year ,12/29/2006,1,227,2,3665,2018,1766,304204,167,8298,4/22/2018 10:04,Diesel,Auto_or_Hybrid,Auto,Big,red
+97,Citroen,207,  2012_year ,4/3/2012,1,224,2,3778,1877,1559,175526,165,14659,9/1/2018 12:17,Diesel,Auto_or_Hybrid,Auto,Big,purple
+98,Fiat,C5,  2009_year ,11/23/2009,,133,2,3975,2200,1464,167594,98,6980,6/16/2018 17:27,Diesel,Manual,Auto,Big,brown
+99,Fiat,C-Klasse,  2003_year ,5/12/2003,,124,2,3502,2350,1406,205730,91,1198,9/28/2018 19:42,Benzin,Manual,Auto,,silver
+100,Kia,A4,  2004_year ,12/15/2004,,115,2,3661,2200,1460,172084,84,1747,7/20/2018 11:48,Benzin,Manual,Manual,,red
+101,Citroen,500,  2001_year ,5/28/2001,,187,2,3483,2313,1415,155825,137,2205,8/23/2018 15:57,Benzin,Manual,Auto,,purple
+102,Fiat,C5,  2003_year ,4/15/2003,,167,2,3679,2290,1450,158963,123,3570,6/27/2018 19:25,??,Auto_or_Hybrid,Auto,,silver
+103,Peugeot,Golf IV,  2011_year ,12/8/2011,1,143,2,3908,1972,1615,146453,105,7590,7/17/2018 12:35,Diesel,Auto_or_Hybrid,Auto,Big,gray
+104,BMW,Mondeo,  2007_year ,2/15/2007,,153,2,3553,2412,1730,269455,112,3198,9/4/2018 8:34,Diesel,Manual,Auto,Big,red
+105,Honda,911,  2008_year ,3/3/2009,,112,2,3648,2369,1527,198279,81,1485,7/10/2018 18:46,Diesel,Manual,Manual,,brown
+106,Fiat,Octavia,  2004_year ,2/10/2004,,137,2,3478,2092,1589,104794,101,1722,9/11/2018 10:27,Benzin,Auto_or_Hybrid,Manual,,silver
+107,Land Rover,A5,  2005_year ,12/9/2005,,208,2,3726,2033,1427,154818,153,5419,8/19/2018 9:01,Benzin,Auto_or_Hybrid,Auto,Mobile,red
+108,Audi,Passat,  2009_year ,3/10/2009,,89,2,3588,2025,1481,71945,65,3354,6/7/2018 9:26,Benzin,Manual,Manual,,red
+109,Dacia,307,  2008_year ,2/29/2008,,72,2,3536,2034,1498,87947,,2962,5/31/2018 10:43,Benzin,Manual,Manual,,purple
+110,BMW,5,  2008_year ,5/14/2008,,102,2,3595,2287,1635,174158,75,3968,9/27/2018 12:33,Diesel,Manual,Auto,Big,silver
+111,Land Rover,A5,  2005_year ,7/12/2005,,148,2,3583,2144,1428,119460,109,4888,9/11/2018 16:59,Benzin,Manual,Auto,,red
+112,Citroen,207,  2006_year ,5/22/2006,,233,2,3753,2338,1491,363900,172,2794,6/9/2018 9:27,Diesel,Auto_or_Hybrid,Auto,Big,red
+113,Fiat,Octavia,  2001_year ,2/12/2001,,62,2,3511,2361,1575,161896,45,337,4/28/2018 14:37,Diesel,Manual,Manual,,brown
+114,Dacia,Kuga,  2007_year ,3/13/2007,,183,2,3651,2175,1451,95108,135,7604,7/11/2018 16:23,Benzin,Manual,Auto,,purple
+115,Dacia,Kuga,  2007_year ,1/23/2008,,109,2,3619,2276,1455,220698,80,3929,8/22/2018 10:14,Diesel,Manual,Auto,,purple
+116,Fiat,C-Klasse,  2007_year ,12/3/2007,,138,2,3658,1937,1447,105124,102,7255,5/19/2018 17:34,Diesel,Auto_or_Hybrid,Auto,,brown
+117,Land Rover,A5,  2006_year ,7/11/2006,,127,2,3718,2117,1427,168797,93,2731,6/30/2018 15:27,Diesel,Auto_or_Hybrid,Auto,,brown
+118,Citroen,500,  2006_year ,11/9/2006,,113,2,3852,2230,1420,155390,82,5612,6/7/2018 16:17,Benzin,Auto_or_Hybrid,Auto,Big,purple
+119,Land Rover,A5,  2001_year ,7/10/2001,,134,2,3546,2018,1428,256655,99,1016,6/8/2018 11:45,Benzin,Auto_or_Hybrid,Auto,,red
+120,Citroen,M-Klasse,  2011_year ,10/26/2011,,200,2,3943,1902,1421,143577,146,10414,5/11/2018 12:27,Diesel,Manual,Auto,,white
+121,Dacia,307,  2013_year ,5/2/2013,,86,2,3765,2284,1498,24711,63,8131,4/19/2018 13:14,Benzin,Manual,Manual,,purple
+122,BMW,Polo,  2010_year ,4/29/2010,,96,2,3564,2242,1621,125574,71,4900,5/22/2018 9:21,Benzin,Auto_or_Hybrid,Manual,,brown
+123,Citroen,500,  2008_year ,10/24/2008,,229,2,3835,2022,1421,189670,168,6604,8/29/2018 9:23,Benzin,Auto_or_Hybrid,Auto,Big,brown
+124,Seat,Grande Punto,  2005_year ,9/13/2005,,109,2,3650,2272,1488,149912,81,3299,9/21/2018 15:46,Diesel,Manual,Auto,Big,red
+125,Smart,Punto,  2014_year ,9/23/2014,,167,2,4007,2140,1414,60266,123,13831,10/22/2018 10:35,Diesel,Manual,Manual,Big,yellow
+126,Citroen,Fabia,  2011_year ,6/22/2011,1,129,2,3972,2007,1545,138052,94,11159,7/8/2018 12:28,Diesel,Manual,Auto,,red
+127,Citroen,500,  2011_year ,8/3/2011,,186,2,3831,1879,1418,156419,136,12572,7/11/2018 15:14,Diesel,Manual,Auto,Big,white
+128,Kia,A4,  2002_year ,8/29/2002,,134,2,3698,2439,1390,144655,98,454,6/23/2018 13:27,Benzin,Manual,Manual,,silver
+129,Land Rover,Civic,  2002_year ,4/15/2003,1,164,1,3681,2154,1453,134216,121,1797,4/24/2018 11:23,Benzin,Manual,Auto,,purple
+130,Opel,Focus,  2016_year ,1/31/2017,,190,2,3988,1842,1448,53456,140,15297,7/30/2018 13:23,Benzin,Auto_or_Hybrid,Manual,Big,red
+131,Fiat,5er,  2008_year ,3/28/2008,,131,2,3839,2097,1603,70285,97,8088,8/1/2018 14:29,Benzin,Auto_or_Hybrid,Auto,,brown
+132,BMW,Q5,  2011_year ,6/14/2011,,105,2,3658,2260,1480,89843,77,5418,6/11/2018 12:44,Diesel,Manual,Auto,Big,red
+133,BMW,Insignia,  2009_year ,9/24/2009,,169,2,3978,1986,1517,80573,124,8335,6/16/2018 10:19,Diesel,Manual,Auto,Big,brown
+134,Suzuki,Q7,  2009_year ,10/5/2009,,135,2,3743,2068,1495,274440,99,5848,9/21/2018 15:51,Benzin,Auto_or_Hybrid,Auto,Big,red
+135,Citroen,207,  2007_year ,3/25/2008,,195,2,3560,2030,1491,141638,143,6179,5/8/2018 10:19,Diesel,Auto_or_Hybrid,Auto,Big,brown
+136,Land Rover,Civic,  2005_year ,10/20/2005,,158,2,3574,2410,1463,188014,116,3449,9/4/2018 14:21,Benzin,Manual,Auto,,red
+137,Kia,A4,  2005_year ,7/19/2005,,125,2,3627,2093,1500,242090,92,1648,7/13/2018 9:57,Benzin,Manual,Manual,Big,brown
+138,Citroen,207,  2007_year ,11/15/2007,1,171,2,3565,2172,1491,151783,126,6289,8/18/2018 16:24,Diesel,Auto_or_Hybrid,Auto,Big,red
+139,Seat,Leon,  2008_year ,5/27/2008,1,142,2,3595,2295,1743,151201,105,9769,7/6/2018 14:56,Diesel,Auto_or_Hybrid,Auto,Big,brown
+140,Citroen,Qashqai,  2005_year ,12/14/2005,1,153,2,3647,2024,1674,153816,112,5206,4/15/2018 16:08,Diesel,Manual,Auto,,brown
+141,Dacia,307,  2007_year ,12/14/2007,,87,2,3579,2400,1498,90815,64,3152,7/15/2018 18:39,Benzin,Manual,Manual,,black
+142,Audi,RAV 4,  2011_year ,1/1/2011,1,156,1,3692,2341,1677,170657,115,6102,10/2/2018 9:37,Diesel,Manual,Front,,brown
+143,BMW,CR-V,  2006_year ,10/19/2006,,107,2,3536,2373,1479,231455,78,2667,8/5/2018 12:29,Diesel,Manual,Auto,Big,silver
+144,Citroen,500,  2010_year ,7/7/2010,,211,2,3586,2029,1418,188155,154,5451,8/6/2018 14:51,Diesel,Manual,Auto,Big,brown
+145,Citroen,207,  2011_year ,9/12/2011,,160,1,3925,2128,1462,159947,117,8881,5/23/2018 18:18,Diesel,Auto_or_Hybrid,Auto,Big,red
+146,Land Rover,Civic,  2004_year ,4/13/2004,,143,2,3576,2352,1453,269460,106,1159,10/21/2018 10:22,Diesel,Manual,Auto,Big,purple
+147,Citroen,500,  2005_year ,1/19/2006,,112,2,3544,2397,1420,130780,82,4004,9/25/2018 14:29,Benzin,Manual,Manual,,purple
+148,Fiat,Octavia,  2008_year ,4/14/2008,,104,2,3591,2043,1593,79458,77,3378,4/19/2018 9:29,Benzin,Manual,Manual,,purple
+149,Fiat,Corsa,  2006_year ,11/17/2006,1,516,3,3952,2147,1815,206334,380,11974,8/29/2018 10:39,Benzin,Auto_or_Hybrid,??,Big,red
+150,Toyota,S 60,  2011_year ,5/3/2011,,130,2,3570,2072,1458,121907,96,7699,6/1/2018 17:31,Benzin,Manual,Auto,Big,white
+151,Audi,Sharan,  2008_year ,7/24/2008,,108,2,3501,2057,1596,203070,79,2797,9/3/2018 12:20,Benzin,Manual,Auto,,red
+152,Toyota,S 60,  2011_year ,12/29/2011,,142,2,3567,2109,1458,72710,104,5587,7/9/2018 18:57,Benzin,Manual,Auto,Big,purple
+153,Citroen,M-Klasse,  2006_year ,10/17/2006,,135,1,3731,2336,1430,305176,99,2733,6/14/2018 17:02,Diesel,Manual,Auto,Big,red
+154,BMW,Insignia,  2010_year ,1/31/2011,,131,2,3830,2122,1516,188805,97,8183,6/28/2018 16:44,Diesel,Manual,Auto,Big,red
+155,BMW,CR-V,  2004_year ,4/6/2004,,89,2,3703,2227,1485,213369,65,2243,7/10/2018 14:58,Benzin,Manual,Auto,Big,purple
+156,Fiat,C-Klasse,  2001_year ,8/2/2001,,117,2,3652,2454,1426,92262,86,1311,5/7/2018 12:35,Benzin,Manual,Auto,,brown
+157,Audi,1er,  2007_year ,9/19/2007,,98,2,3633,2190,1501,216818,71,1267,6/14/2018 16:50,Diesel,Manual,Manual,,silver
+158,BMW,??,  2007_year ,11/27/2007,,90,2,3598,2265,1485,166706,67,2082,6/18/2018 13:56,Benzin,Manual,Manual,,red
+159,Hyundai,Meriva,  2004_year ,3/14/2005,,65,3,3633,2169,1500,121801,48,1615,8/6/2018 9:21,Benzin,Manual,Manual,,brown
+160,Land Rover,Civic,  2011_year ,7/19/2011,,189,2,3760,1982,1455,186191,139,13307,7/13/2018 17:04,Benzin,Auto_or_Hybrid,Auto,Big,red
+161,Land Rover,C-Max,  2006_year ,11/1/2006,,134,2,3652,2299,1423,306044,99,2527,9/7/2018 13:00,Diesel,Manual,Auto,,brown
+162,Honda,911,  2009_year ,3/11/2009,,138,2,3778,2362,1472,83223,101,5026,7/16/2018 13:54,Benzin,Auto_or_Hybrid,Manual,,brown
+163,Nissan,Superb,  2012_year ,8/29/2012,1,158,1,3923,2052,1675,53680,116,13575,5/23/2018 8:48,Benzin,Manual,Auto,Small,red
+164,BMW,Q5,  2012_year ,11/26/2012,,182,2,3778,2195,1480,93242,134,8546,8/30/2018 14:04,Benzin,Auto_or_Hybrid,Auto,Big,brown
+165,Audi,1er,  2007_year ,4/2/2007,,98,1,3486,2055,1501,295414,71,1021,8/2/2018 14:50,Diesel,Manual,Manual,,brown
+166,BMW,3er,  2002_year ,1/28/2003,,96,2,3608,2115,1444,434821,71,571,5/17/2018 15:24,Diesel,Manual,Manual,,red
+167,Land Rover,A5,  2006_year ,4/7/2006,1,203,2,3709,2195,1427,197539,149,3032,4/15/2018 12:57,Benzin,Auto_or_Hybrid,Auto,,red
+168,Fiat,C5,  2013_year ,10/9/2013,,183,2,4458,1679,1475,43545,135,21632,7/1/2018 14:25,Benzin,Auto_or_Hybrid,Auto,Big,red
+169,Seat,Grande Punto,  2006_year ,2/28/2006,,139,3,3559,2098,1488,217407,102,2780,9/16/2018 11:36,Diesel,Auto_or_Hybrid,Auto,Mobile,silver
+170,BMW,CR-V,  2004_year ,11/29/2004,,107,2,3706,2220,1485,90435,79,2594,6/22/2018 15:33,Benzin,Manual,Auto,,black
+171,BMW,Insignia,  2007_year ,4/2/2007,,156,2,3695,1963,1472,110672,115,3734,6/28/2018 11:37,Benzin,Manual,Auto,Big,silver
+172,BMW,Polo,  2010_year ,12/16/2010,,119,2,3923,2013,1621,43671,88,8383,6/29/2018 12:05,Benzin,Auto_or_Hybrid,Auto,,gray
+173,Fiat,Octavia,  2014_year ,6/17/2014,,122,2,4048,1983,1433,25454,90,15466,6/3/2018 14:01,Benzin,Auto_or_Hybrid,Manual,Big,silver
+174,Land Rover,A5,  2007_year ,4/19/2007,,99,1,3699,2194,1428,140775,73,5638,4/23/2018 16:58,Benzin,Manual,Auto,Small,brown
+175,Hyundai,Meriva,  2006_year ,5/24/2006,,75,2,3638,2400,1530,151132,55,2139,9/12/2018 16:29,Benzin,Manual,Manual,,brown
+176,Mazda,C4,  2012_year ,1/24/2012,,100,2,3786,2224,1695,120423,73,5819,6/22/2018 18:48,Benzin,Manual,Manual,,red
+177,Fiat,5er,  2008_year ,12/10/2008,,122,2,3933,2088,1604,102028,90,7292,6/22/2018 9:53,Benzin,Auto_or_Hybrid,Auto,Big,brown
+178,Fiat,C-Klasse,  2007_year ,11/21/2007,,163,2,3542,2343,1459,213723,119,6577,5/30/2018 11:17,Benzin,Manual,Auto,,brown
+179,Kia,A6,  2002_year ,8/12/2002,,139,2,3422,2355,1460,134068,102,1284,7/19/2018 10:09,Benzin,Manual,Manual,,brown
+180,Seat,Swift,  2010_year ,1/31/2011,,168,2,3908,2004,1484,247372,124,6697,6/14/2018 14:32,Diesel,Manual,Auto,Big,gray
+181,MINI,Astra,  2012_year ,11/8/2012,1,160,2,4085,1815,1365,104706,118,15747,5/3/2018 16:25,Diesel,Auto_or_Hybrid,Auto,,white
+182,Citroen,500,  2008_year ,10/2/2008,1,288,2,3884,2152,1375,196803,213,12284,8/24/2018 10:33,Benzin,Auto_or_Hybrid,Auto,Big,brown
+183,MINI,Astra,  2014_year ,3/18/2014,1,184,2,4274,1887,1365,67173,136,29809,9/20/2018 11:50,Diesel,Auto_or_Hybrid,Auto,Big,white
+184,Kia,A4,  2010_year ,6/16/2010,,101,2,3456,2344,1500,190846,75,1987,5/24/2018 8:26,Diesel,Manual,Manual,,silver
+185,Fiat,C-Klasse,  2011_year ,5/13/2011,,119,2,3843,2235,1459,146587,88,7554,8/28/2018 16:56,Diesel,Manual,Auto,,silver
+186,Audi,Avensis,  2014_year ,5/6/2014,,127,2,3883,2159,1548,106052,93,9826,10/1/2018 17:40,Diesel,Manual,Auto,Big,red
+187,Kia,A4,  2002_year ,8/22/2002,,109,2,3487,2465,1390,125543,81,511,5/25/2018 16:07,Benzin,Manual,Manual,,silver
+188,Dacia,T5,  2010_year ,9/23/2010,,169,2,3721,2118,1510,85622,124,9026,9/3/2018 17:21,Benzin,Auto_or_Hybrid,Auto,,brown
+189,Fiat,C5,  2010_year ,6/14/2010,,188,2,4029,1890,1515,106760,137,11216,5/7/2018 12:53,Benzin,Auto_or_Hybrid,Auto,Big,brown
+190,Citroen,500,  2000_year ,1/4/2001,,169,2,3442,2365,1415,144124,124,1661,6/30/2018 9:49,Benzin,Manual,Auto,,purple
+191,Skoda,MINI,  2006_year ,2/27/2007,,163,2,3811,2066,1615,103616,121,5341,5/13/2018 12:22,Benzin,Manual,Auto,,yellow
+192,Fiat,C-Klasse,  2012_year ,2/13/2012,,135,2,3835,2144,1447,90592,100,15833,6/13/2018 13:35,Benzin,Manual,Auto,Big,white
+193,Volkswagen,Tiguan,  2012_year ,3/29/2012,,84,2,3714,2368,1525,102299,62,5143,6/5/2018 18:05,Diesel,Manual,Auto,Mobile,red
+194,Land Rover,Civic,  2012_year ,5/29/2012,,169,2,4097,2113,1461,151881,124,12632,8/28/2018 14:39,Diesel,Manual,Auto,Big,white
+195,Hyundai,A-Klasse,  2007_year ,6/14/2007,,136,1,3695,2241,1525,199157,101,2983,7/18/2018 16:45,Diesel,Manual,Auto,Big,brown
+196,Fiat,Octavia,  2013_year ,8/19/2013,,178,2,3927,2000,1433,61119,132,16029,9/18/2018 8:40,Benzin,Manual,Manual,Big,brown
+197,Dacia,Kuga,  2012_year ,10/15/2012,,97,2,3815,2074,1468,67221,71,8282,8/5/2018 16:22,Diesel,Manual,Auto,Big,brown
+198,Citroen,500,  2008_year ,11/24/2008,,197,2,3611,2112,1440,138039,145,5197,10/7/2018 11:42,Diesel,Manual,Auto,Big,silver
+199,Honda,A3,  2008_year ,3/18/2009,,82,1,3492,2296,1425,197701,60,1250,4/22/2018 10:15,Benzin,Manual,Manual,,brown
+200,BMW,CR-V,  2005_year ,3/2/2006,,94,2,3794,2320,1485,182575,69,2769,6/21/2018 17:37,Benzin,Manual,Auto,,red
+201,BMW,Megane,  2014_year ,10/8/2014,,145,2,4072,2082,1452,47750,107,12584,5/4/2018 10:40,Benzin,Auto_or_Hybrid,Auto,Big,red
+202,Citroen,500,  1998_year ,5/15/1998,,115,2,3620,2102,1415,128196,85,872,4/7/2018 15:26,Benzin,Manual,Auto,,yellow
+203,Suzuki,Q7,  2010_year ,8/27/2010,,143,2,3633,2163,1458,119262,105,5927,6/1/2018 15:45,Benzin,Manual,Auto,,brown
+204,BMW,Q5,  2009_year ,8/25/2009,,99,2,3526,2288,1480,143805,73,5553,5/18/2018 18:43,Diesel,Manual,Auto,,red
+205,Smart,Punto,  2015_year ,6/12/2015,,147,1,3789,1998,1425,28576,109,12217,8/15/2018 14:17,Benzin,Manual,Auto,Big,white
+206,BMW,3er,  2003_year ,5/27/2004,,95,2,3593,2250,1444,228927,70,1000,5/14/2018 12:40,Diesel,Manual,Manual,,red
+207,Citroen,M-Klasse,  2007_year ,10/8/2007,,130,2,3763,2295,1421,103260,96,4750,10/10/2018 12:48,Benzin,Auto_or_Hybrid,Manual,,red
+208,BMW,Touareg,  2013_year ,5/6/2013,,112,1,3968,2084,1950,184346,82,11581,9/1/2018 12:53,Diesel,Manual,Manual,Big,brown
+209,BMW,5,  2008_year ,11/19/2008,,174,2,3866,2097,1635,121883,128,6003,8/5/2018 14:40,Diesel,Manual,Auto,Big,red
+210,BMW,3er,  2002_year ,6/19/2002,,126,2,3407,2410,1444,157724,93,1224,7/3/2018 10:16,Benzin,Manual,Auto,,purple
+211,Fiat,5er,  2006_year ,5/16/2006,,153,2,3600,2040,1603,183186,112,4093,5/21/2018 16:34,Diesel,Auto_or_Hybrid,Auto,Big,purple
+212,BMW,Megane,  2014_year ,6/26/2014,,117,2,3788,2255,1452,19441,85,13007,7/15/2018 9:23,Benzin,Auto_or_Hybrid,Manual,Mobile,brown
+213,Kia,Fiesta,  2001_year ,5/2/2001,,108,2,3530,2078,1634,189000,80,292,6/11/2018 11:46,Benzin,Auto_or_Hybrid,Manual,,brown
+214,Citroen,500,  2002_year ,1/3/2003,,151,2,3456,1996,1408,98101,111,2695,10/17/2018 9:24,Benzin,Manual,Manual,,red
+215,Audi,Sharan,  2004_year ,8/23/2004,,98,1,3716,2421,1560,255700,71,465,8/10/2018 12:09,Diesel,Manual,Manual,,red
+216,BMW,Megane,  2013_year ,2/26/2013,,102,2,3695,1993,1452,63674,75,8472,6/20/2018 9:23,Diesel,Manual,Auto,,purple
+217,Fiat,C5,  2007_year ,3/1/2007,,228,2,3895,2234,1499,181455,167,7598,5/11/2018 10:06,Diesel,Auto_or_Hybrid,Auto,Big,red
+218,Audi,1er,  2006_year ,6/30/2006,,121,2,3574,2355,1501,142128,89,2281,5/3/2018 16:46,Benzin,Manual,Manual,,red
+219,Fiat,C-Klasse,  2012_year ,6/18/2012,,171,2,4057,2211,1459,154098,126,13106,7/25/2018 14:13,Diesel,Auto_or_Hybrid,Auto,Big,red
+220,Suzuki,Q7,  2001_year ,8/14/2001,,155,2,3573,2467,1516,117206,115,532,6/30/2018 12:04,Benzin,Manual,Auto,,brown
+221,Skoda,MINI,  2007_year ,5/31/2007,,127,2,3738,2136,1615,257736,94,1569,9/9/2018 15:26,Diesel,Manual,Auto,,red
+222,Dacia,Kuga,  2014_year ,8/18/2014,,195,2,3785,2089,1452,80091,142,12944,7/18/2018 9:48,Diesel,Manual,Auto,Big,red
+223,Land Rover,Civic,  2008_year ,5/5/2008,,171,2,3883,1945,1459,124227,126,8240,5/16/2018 17:51,Benzin,Auto_or_Hybrid,Auto,Big,brown
+224,Suzuki,Touran,  2010_year ,8/27/2010,,107,1,3777,2158,1496,144663,78,2878,10/4/2018 17:07,Benzin,Manual,Auto,,black
+225,Kia,A4,  2009_year ,6/22/2010,,162,2,3605,2283,1510,56134,118,6277,5/11/2018 11:52,Benzin,Manual,Auto,Big,purple
+226,Citroen,500,  2008_year ,5/22/2008,,201,2,3635,2051,1384,153929,148,10329,6/14/2018 12:06,Diesel,Auto_or_Hybrid,Auto,Big,beige
+227,Citroen,500,  2008_year ,12/19/2008,,159,2,3667,2200,1418,199471,117,5198,7/8/2018 9:54,Benzin,Manual,Auto,,red
+228,Citroen,500,  2013_year ,8/27/2013,1,342,2,4455,1871,1429,74603,252,29499,10/6/2018 12:07,Benzin,Auto_or_Hybrid,Auto,Big,brown
+229,Fiat,C-Klasse,  2009_year ,7/29/2009,,155,2,3676,2244,1459,200763,115,4453,6/5/2018 15:28,Diesel,Manual,Auto,Big,brown
+230,Fiat,C-Klasse,  2002_year ,3/26/2002,,149,2,3579,2448,1460,254860,109,1157,7/31/2018 12:21,Benzin,Auto_or_Hybrid,Auto,Small,silver
+231,Volkswagen,Tiguan,  2011_year ,3/30/2011,,86,2,3613,1941,1525,6545,63,7288,5/12/2018 13:02,Benzin,Manual,Manual,,brown
+232,BMW,Twingo,  2010_year ,6/28/2010,,158,2,3558,2163,1686,140303,116,7377,9/30/2018 16:23,Benzin,Manual,Manual,,white
+233,Land Rover,Civic,  2008_year ,12/1/2008,1,239,2,3894,2267,1463,196707,175,8274,9/19/2018 18:11,Diesel,Manual,Auto,Big,red
+234,BMW,5,  2007_year ,12/20/2007,,137,2,3479,2192,1635,300383,100,2741,6/12/2018 15:38,Diesel,Manual,Manual,Big,purple
+235,BMW,3er,  2002_year ,8/26/2002,,98,2,3616,2049,1439,205292,72,1089,6/23/2018 16:33,Benzin,Auto_or_Hybrid,Manual,,brown
+236,Audi,1er,  2007_year ,11/23/2007,,231,2,3883,2167,1447,110183,171,6033,9/10/2018 12:28,Benzin,Manual,Manual,,white
+237,Dacia,Kuga,  2001_year ,8/24/2001,,104,2,3461,2164,1413,147336,77,729,5/31/2018 11:18,Benzin,Manual,Manual,,yellow
+238,BMW,Q5,  2011_year ,10/26/2011,,189,1,3894,1940,1469,113435,139,10764,4/17/2018 18:16,Benzin,Manual,Auto,,black
+239,Toyota,S 60,  2008_year ,6/5/2008,,139,2,3436,2381,1458,158887,102,1446,7/13/2018 16:04,Diesel,Manual,Auto,,black
+240,Fiat,C5,  2012_year ,2/2/2012,,137,2,3920,2066,1464,122655,102,13974,10/4/2018 13:57,Diesel,Auto_or_Hybrid,Auto,Big,brown
+241,Land Rover,C-Max,  2003_year ,8/1/2003,,104,1,3440,2437,1421,159924,77,827,9/3/2018 11:39,Benzin,Manual,Auto,,black
+242,Fiat,Octavia,  2005_year ,6/24/2005,,105,2,3688,2351,1593,135061,78,2580,4/14/2018 13:13,Benzin,Auto_or_Hybrid,Manual,,red
+243,Dacia,Kuga,  2014_year ,2/11/2014,,161,2,3750,2167,1450,82453,118,9490,5/18/2018 10:12,Diesel,Manual,Auto,Big,red
+244,Citroen,500,  2008_year ,7/21/2008,,152,2,3699,1937,1440,140587,111,4865,7/4/2018 15:43,Diesel,Manual,Auto,,white
+245,Kia,Golf V,  2009_year ,7/17/2009,,153,2,3729,2131,1520,144164,113,6230,7/20/2018 10:19,Diesel,Manual,Auto,,black
+246,Kia,A6,  2006_year ,12/18/2007,,163,2,3492,2077,1460,239781,119,2420,6/29/2018 15:34,Diesel,Auto_or_Hybrid,Auto,Big,red
+247,Land Rover,Clio,  2010_year ,1/18/2011,1,245,2,3890,2274,1391,213615,179,10726,7/30/2018 15:24,Diesel,Auto_or_Hybrid,Auto,Big,red
+248,Citroen,500,  2011_year ,4/6/2011,,283,2,3984,1837,1384,88944,209,21694,5/30/2018 10:29,Benzin,Manual,Auto,Big,red
+249,Land Rover,A5,  2002_year ,4/16/2002,,108,1,3633,2137,1421,278558,79,1415,11/6/2018 16:02,Benzin,Manual,Auto,,silver
+250,Peugeot,Golf IV,  2011_year ,5/12/2011,,112,2,3571,2166,1615,194719,83,5055,5/20/2018 14:01,Diesel,Manual,Manual,,red
+251,Dacia,Kuga,  2011_year ,1/19/2011,,152,2,3873,2001,1462,85768,112,8716,5/29/2018 9:31,Diesel,Auto_or_Hybrid,Auto,Big,purple
+252,Land Rover,C-Max,  2013_year ,8/5/2013,,131,2,3753,1929,1421,61728,96,14256,10/15/2018 15:04,Benzin,Manual,Auto,Big,red
+253,Renault,Golf VII,  2015_year ,5/13/2015,,139,2,3765,2146,1510,55895,103,8222,8/29/2018 12:51,Benzin,Manual,Auto,,purple
+254,Citroen,207,  2010_year ,11/12/2010,,299,2,3866,1847,1462,171598,219,12928,7/7/2018 12:58,Diesel,Auto_or_Hybrid,Auto,Big,purple
+255,Porsche,Golf VI,  2009_year ,9/1/2009,,58,2,3704,2014,1490,52592,43,2655,5/21/2018 16:30,Benzin,Manual,,,purple
+256,Citroen,207,  2012_year ,3/20/2012,,172,2,3891,1952,1464,129298,125,18291,5/13/2018 16:05,Diesel,Auto_or_Hybrid,Auto,Big,red
+257,Suzuki,Touran,  2011_year ,9/30/2011,,159,2,3883,2228,1700,84256,117,7560,5/13/2018 17:57,Diesel,Auto_or_Hybrid,Auto,Big,white
+258,Land Rover,Civic,  2005_year ,6/7/2005,,182,2,3815,2199,1459,238560,134,4715,5/27/2018 11:11,Benzin,Auto_or_Hybrid,Auto,,brown
+259,Land Rover,Civic,  2006_year ,6/16/2006,,141,2,3527,2161,1463,271042,103,2861,11/2/2018 11:22,Diesel,Auto_or_Hybrid,Auto,Big,brown
+260,BMW,V 50,  2008_year ,6/17/2008,1,225,2,3918,2088,1726,142361,165,12204,10/3/2018 11:07,Diesel,Auto_or_Hybrid,Auto,Big,red
+261,Land Rover,Civic,  2012_year ,2/7/2012,1,209,2,3902,1909,1461,152916,153,22146,6/28/2018 15:30,Diesel,Auto_or_Hybrid,Auto,Big,red
+262,Land Rover,Civic,  2003_year ,5/16/2003,1,150,1,3548,2420,1452,255294,110,1406,4/19/2018 8:49,Benzin,Manual,Auto,,purple
+263,BMW,CR-V,  2004_year ,10/27/2004,,98,1,3681,2018,1485,176439,72,2281,6/13/2018 19:24,Diesel,Manual,Manual,,purple
+264,Land Rover,A5,  2004_year ,3/5/2004,,174,2,3641,2305,1428,262199,128,1784,6/27/2018 11:02,Diesel,Manual,Auto,Big,brown
+265,Land Rover,A5,  2009_year ,8/1/2008,,116,2,3803,2292,1427,145822,86,8290,6/20/2018 10:38,Diesel,Manual,Auto,Big,red
+266,Land Rover,C-Max,  2005_year ,7/27/2005,,144,1,3519,2354,1421,179961,106,2162,6/12/2018 11:33,Diesel,Manual,Auto,,purple
+267,Land Rover,V 70,  2010_year ,2/8/2010,1,193,2,3924,1883,1653,100303,142,16338,6/23/2018 14:34,Diesel,Auto_or_Hybrid,Auto,,red
+268,Toyota,Vectra,  2009_year ,4/6/2009,,77,2,3526,2086,1428,40503,57,4352,9/12/2018 15:26,Benzin,Manual,Auto,Mobile,red
+269,BMW,V 50,  2009_year ,8/12/2009,1,238,2,3794,2244,1726,292499,175,5539,8/4/2018 11:13,Diesel,Auto_or_Hybrid,Auto,,red
+270,Fiat,C-Klasse,  2004_year ,6/10/2004,,132,2,3638,2012,1426,116814,97,3824,8/21/2018 10:06,Diesel,Auto_or_Hybrid,Auto,,purple
+271,Smart,Punto,  2003_year ,10/16/2003,,93,2,3643,2377,1416,224177,68,1136,8/12/2018 19:07,Benzin,??,Manual,,red
+272,Fiat,C-Klasse,  2008_year ,4/8/2008,,157,2,3728,2179,1459,103290,117,11380,7/4/2018 13:18,Benzin,Auto_or_Hybrid,Auto,Big,brown
+273,Kia,A4,  2006_year ,7/26/2006,,102,2,3574,2295,1411,113752,75,3995,5/31/2018 12:12,Benzin,Manual,Manual,,beige
+274,Citroen,M-Klasse,  2009_year ,4/21/2010,,144,2,3770,1916,1411,84731,106,10303,6/1/2018 12:17,Benzin,Manual,Manual,,brown
+275,BMW,Insignia,  2011_year ,4/11/2011,,157,2,3629,2187,1516,95264,115,9423,6/5/2018 8:56,Diesel,Auto_or_Hybrid,Manual,Big,gray
+276,Fiat,C5,  2013_year ,10/28/2013,,155,2,4005,2032,1507,83233,114,20707,5/8/2018 10:27,Diesel,Auto_or_Hybrid,Auto,Big,brown
+277,Land Rover,A5,  2002_year ,10/25/2002,,140,2,3662,2395,1428,298749,103,546,6/29/2018 18:54,Diesel,Manual,Auto,,red
+278,Kia,Fiesta,  2006_year ,9/29/2006,,166,2,3739,2016,1645,208966,122,2130,4/29/2018 11:35,Diesel,Manual,Manual,,red
+279,BMW,Polo,  2007_year ,8/15/2007,,107,2,3654,1980,1580,114418,79,4203,5/31/2018 11:20,Diesel,Manual,Auto,,purple
+280,Kia,A4,  2006_year ,11/30/2006,,112,2,3560,2175,1500,139167,83,1485,5/5/2018 11:38,Diesel,Manual,Manual,,red
+281,Land Rover,Civic,  2013_year ,7/23/2013,,139,2,3659,1933,1461,185758,103,9796,9/23/2018 13:40,Diesel,Manual,Auto,Big,brown
+282,Nissan,Superb,  2005_year ,10/21/2005,0,164,3,3796,2208,1710,127892,120,3910,8/31/2018 15:19,Benzin,Auto_or_Hybrid,Auto,,red
+283,Dacia,Kuga,  2010_year ,4/26/2010,,103,2,3516,2340,1468,122655,75,4583,6/24/2018 17:47,Diesel,Auto_or_Hybrid,Auto,,red
+284,Porsche,X1,  2011_year ,5/2/2011,,75,1,3766,2166,1490,90504,55,2398,7/12/2018 13:53,Benzin,Manual,Manual,Mobile,purple
+285,Suzuki,Touran,  2010_year ,4/14/2010,,124,3,3651,2335,1700,130751,90,3274,5/30/2018 12:04,Diesel,Manual,Auto,,red
+286,BMW,5,  2007_year ,5/2/2007,,174,2,3570,1981,1635,186347,128,3026,9/9/2018 16:09,Diesel,Manual,Auto,Big,brown
+287,Kia,E-Klasse,  2010_year ,1/25/2011,,90,1,3863,2011,1615,77605,67,5905,5/8/2018 15:56,Benzin,Manual,Manual,Mobile,brown
+288,Citroen,207,  2004_year ,4/7/2004,,165,2,3469,1986,1468,391642,121,3272,5/1/2018 11:00,Diesel,Auto_or_Hybrid,Auto,Big,brown
+289,Audi,RAV 4,  2010_year ,6/29/2010,1,127,2,3817,2036,1710,122094,94,8916,9/13/2018 8:24,Diesel,Auto_or_Hybrid,Auto,Big,red
+290,Ford,6,  2010_year ,8/13/2010,,106,2,3645,2380,1480,137144,79,2498,5/30/2018 14:27,Diesel,Manual,Manual,,silver
+291,Land Rover,Clio,  2010_year ,7/5/2010,,170,2,3772,1891,1372,56964,124,9714,7/29/2018 13:48,Benzin,Manual,Auto,,brown
+292,Honda,911,  2008_year ,9/29/2008,,152,2,3611,2242,1397,76043,112,3846,10/13/2018 11:27,Benzin,Manual,Auto,,red
+293,BMW,Touareg,  2009_year ,1/15/2010,,185,2,4050,1982,1970,132000,135,14830,7/13/2018 8:58,Diesel,Manual,Auto,Big,silver
+294,Opel,Ibiza,  2013_year ,10/25/2013,,108,1,3803,2335,1534,118092,79,5334,5/20/2018 14:58,Diesel,Manual,Auto,Big,red
+295,Citroen,B-Klasse,  2005_year ,1/3/2005,1,226,2,3537,1982,1715,172135,166,6456,8/18/2018 11:40,Diesel,Auto_or_Hybrid,Auto,Big,brown
+296,Kia,A4,  2004_year ,3/11/2005,,92,2,3750,2094,1500,120470,67,2065,7/1/2018 13:52,Benzin,Auto_or_Hybrid,Auto,,purple
+297,Dacia,Kuga,  2009_year ,6/17/2009,,149,2,3590,1947,1451,161545,110,5423,5/28/2018 14:15,Diesel,Auto_or_Hybrid,Auto,Big,red
+298,Land Rover,Civic,  2005_year ,7/18/2005,,162,2,3539,2167,1463,225427,119,3529,5/8/2018 15:23,Diesel,Manual,Auto,,brown
+299,Audi,Avensis,  2005_year ,1/12/2006,,131,2,3481,2140,1427,235452,97,754,5/25/2018 13:45,Benzin,Manual,??,,purple
+300,Hyundai,X3,  2003_year ,10/30/2003,1,137,3,3516,2326,1680,86821,101,4208,8/21/2018 9:22,Benzin,Auto_or_Hybrid,Manual,,purple
+301,Land Rover,C-Max,  2009_year ,8/19/2009,,150,2,3593,2183,1423,138389,110,6854,7/25/2018 8:22,Benzin,Manual,Auto,,red
+302,Land Rover,A5,  2007_year ,10/1/2007,,99,2,3886,2203,1428,102295,73,5894,5/22/2018 16:20,Benzin,Manual,Auto,,brown
+303,Land Rover,A5,  2009_year ,11/16/2009,,156,2,3706,2128,1436,130563,115,8704,9/6/2018 16:33,Diesel,Auto_or_Hybrid,Auto,,brown
+304,Kia,Golf V,  2015_year ,5/4/2015,1,167,2,3791,1859,1520,99384,122,15354,6/3/2018 9:18,Diesel,Auto_or_Hybrid,Auto,Big,red
+305,BMW,Mondeo,  2006_year ,10/31/2006,,146,2,3545,2139,1730,129421,108,6272,4/23/2018 14:14,Diesel,Manual,Auto,Big,purple
+306,Citroen,207,  2012_year ,5/18/2012,,194,2,4009,2238,1462,122409,142,13487,5/25/2018 18:42,Diesel,Manual,Auto,Big,red
+307,Seat,X5,  2010_year ,6/24/2010,1,223,2,3949,2233,1713,227941,165,8902,7/4/2018 13:24,Diesel,Manual,Auto,Big,red
+308,Citroen,500,  2000_year ,2/16/2000,,133,2,3495,2404,1415,129563,98,1649,7/7/2018 10:15,Benzin,Auto_or_Hybrid,Manual,,silver
+309,Citroen,207,  2011_year ,10/13/2011,,175,2,3764,2150,1462,109370,128,13128,6/29/2018 13:42,Diesel,Auto_or_Hybrid,Auto,Big,red
+310,Toyota,S 60,  2006_year ,4/24/2007,,91,1,3527,2026,1458,212594,67,2981,7/8/2018 16:46,Benzin,Manual,Manual,,brown
+311,Citroen,500,  2005_year ,12/21/2005,,182,2,3488,2068,1440,286083,134,3206,5/17/2018 9:19,Diesel,Auto_or_Hybrid,Auto,Big,brown
+312,BMW,206,  2006_year ,6/19/2006,,64,2,3473,1988,1467,62416,46,2175,5/14/2018 16:41,Benzin,Manual,Manual,,brown
+313,BMW,Twingo,  2010_year ,9/24/2010,,143,2,3719,2048,1686,151363,105,8470,5/16/2018 17:27,Diesel,Manual,Auto,,red
+314,BMW,Insignia,  2009_year ,4/21/2009,,178,2,3660,1956,1417,143026,131,8814,4/23/2018 11:19,Diesel,Manual,Manual,Big,brown
+315,Land Rover,C-Max,  2011_year ,4/1/2011,,169,2,3743,2124,1423,134519,124,7441,5/7/2018 11:32,Benzin,Manual,Auto,,red
+316,Audi,1er,  2003_year ,12/16/2003,,113,2,3476,2320,1532,172972,84,810,6/25/2018 15:46,Benzin,Manual,Manual,,brown
+317,Dacia,T5,  2011_year ,1/31/2011,,195,2,4009,2235,1510,102727,144,9108,8/7/2018 13:12,Diesel,Auto_or_Hybrid,Auto,Big,brown
+318,BMW,Q5,  2010_year ,8/13/2010,,130,2,3928,2220,1504,69078,96,7096,7/5/2018 11:11,Benzin,Manual,Auto,,brown
+319,Citroen,500,  2007_year ,1/15/2008,,184,2,3664,2386,1418,244056,136,3150,5/24/2018 10:25,Diesel,Manual,Auto,??,brown
+320,Citroen,207,  2010_year ,10/11/2010,,273,2,3838,1867,1462,160454,201,12641,6/15/2018 19:16,Diesel,Auto_or_Hybrid,Auto,Big,red
+321,Citroen,Qashqai,  2008_year ,10/21/2008,1,153,2,3681,1934,1674,222782,112,7059,7/6/2018 19:16,Diesel,Manual,Auto,Big,brown
+322,Audi,Avensis,  2006_year ,6/30/2006,,133,2,3590,2275,1415,143387,98,3057,7/2/2018 10:49,Benzin,Auto_or_Hybrid,Auto,,red
+323,Fiat,C-Klasse,  2001_year ,??,,182,1,3649,2143,1406,130599,134,912,8/26/2018 13:54,Benzin,Manual,Auto,,orange
+324,Citroen,207,  2004_year ,7/9/2004,,202,4,3616,2088,1491,261953,148,3900,6/24/2018 10:08,Diesel,Auto_or_Hybrid,Auto,Big,red
+325,Fiat,C5,  2006_year ,7/10/2007,,149,2,3848,2076,1496,139886,110,6724,9/22/2018 9:08,Benzin,Auto_or_Hybrid,Auto,Big,brown
+326,BMW,Mondeo,  2011_year ,4/20/2011,,125,2,4063,1957,1740,123101,92,12513,3/30/2018 11:43,Diesel,Manual,Auto,Big,brown
+327,Dacia,Kuga,  2005_year ,1/11/2006,,222,2,3636,2165,1447,105298,163,5727,7/19/2018 16:06,Benzin,Manual,Auto,,red
+328,Kia,A4,  2001_year ,6/15/2001,,85,2,3588,2211,1425,111606,62,919,6/16/2018 11:56,Benzin,Manual,Manual,,silver
+329,Land Rover,Civic,  2010_year ,3/29/2010,1,253,2,3754,2045,1463,97546,185,11711,11/6/2018 8:43,Diesel,Auto_or_Hybrid,Auto,Big,red
+330,Dacia,Kuga,  2005_year ,2/28/2005,,94,2,3514,2280,1468,182190,69,2733,8/6/2018 12:54,Benzin,Auto_or_Hybrid,Manual,,beige
+331,Citroen,500,  1999_year ,4/15/1999,,127,2,3523,2196,1415,228129,94,536,10/16/2018 19:53,Benzin,Manual,Auto,,brown
+332,Mazda,C4,  2010_year ,11/17/2010,,115,2,3577,2059,1695,94028,85,4090,11/3/2018 13:12,Diesel,Manual,Manual,,gray
+333,BMW,Insignia,  2007_year ,1/31/2007,,99,2,3797,2036,1517,143869,,3528,7/12/2018 14:31,Diesel,Manual,Auto,Big,brown
+334,Citroen,500,  2006_year ,7/12/2006,,159,2,3529,2119,1440,227594,117,3279,7/8/2018 9:29,Diesel,Manual,Auto,Big,brown
+335,Citroen,M-Klasse,  2007_year ,9/24/2007,,111,2,3606,2311,1421,142457,82,2345,9/5/2018 13:22,Benzin,Manual,Auto,,brown
+336,Fiat,C-Klasse,  2001_year ,6/28/2001,,225,2,3597,2358,1406,184453,166,781,9/12/2018 15:30,Benzin,Auto_or_Hybrid,Auto,Big,brown
+337,Porsche,Golf Plus,  2013_year ,10/30/2013,,73,2,3805,2210,1488,66334,53,7315,5/21/2018 17:16,Benzin,Manual,Auto,,beige
+338,Nissan,Duster,  2011_year ,11/30/2011,,113,2,3691,2024,1460,42174,83,6737,6/24/2018 10:45,Benzin,Manual,Auto,,silver
+339,Land Rover,Civic,  2008_year ,5/6/2008,1,218,2,3794,2220,1463,330098,161,3498,9/3/2018 12:27,Diesel,Auto_or_Hybrid,Auto,Big,brown
+340,Nissan,Superb,  2014_year ,5/6/2014,,130,2,3964,2056,1685,53643,95,13833,7/29/2018 15:13,Diesel,Manual,Auto,Big,brown
+341,Citroen,500,  2003_year ,3/27/2003,,184,1,3592,2202,1372,222929,135,2566,10/19/2018 9:30,Benzin,Manual,Manual,,red
+342,Citroen,M-Klasse,  2008_year ,6/16/2008,,180,2,3619,2131,1411,62571,132,7389,4/27/2018 12:37,Benzin,Auto_or_Hybrid,Auto,,black
+343,Land Rover,C-Max,  2002_year ,7/30/2002,,116,2,3555,2234,1090,210180,85,974,5/1/2018 16:21,Benzin,Manual,Auto,,red
+344,Citroen,500,  2006_year ,10/11/2006,,145,2,3816,2187,1440,144943,106,5290,4/5/2018 17:46,Benzin,Manual,Auto,,red
+345,Citroen,207,  2006_year ,1/20/2006,,205,2,3696,2279,1491,237719,151,4186,7/15/2018 14:04,Diesel,Auto_or_Hybrid,Auto,Big,brown
+346,BMW,Twingo,  2012_year ,9/12/2012,1,147,2,4094,1857,1703,53447,108,15547,9/1/2018 16:46,Diesel,Auto_or_Hybrid,Auto,Big,purple
+347,Fiat,Octavia,  2009_year ,9/29/2009,,88,2,3657,2291,1593,86365,64,3419,5/30/2018 10:31,Diesel,Manual,Manual,,purple
+348,Land Rover,XC 60,  2014_year ,2/5/2014,1,251,2,4139,1720,1737,80822,184,25311,7/1/2018 16:38,Diesel,Auto_or_Hybrid,Auto,Big,gray
+349,Audi,Avensis,  2011_year ,3/28/2011,,185,2,3631,1910,1548,113359,136,10160,4/21/2018 10:24,Benzin,Auto_or_Hybrid,Auto,Big,brown
+350,Dacia,T5,  2009_year ,4/30/2009,1,260,2,3630,2361,1462,253779,191,5707,5/15/2018 12:49,Benzin,Auto_or_Hybrid,Auto,Big,brown
+351,Kia,Golf V,  2010_year ,12/11/2010,,151,1,3757,2365,1498,243179,111,5774,5/12/2018 10:36,Diesel,Auto_or_Hybrid,Auto,Big,brown
+352,Citroen,M-Klasse,  2009_year ,11/16/2009,,140,2,3791,1976,1421,,103,5368,5/23/2018 14:56,Benzin,Manual,Auto,,purple
+353,BMW,Polo,  2010_year ,4/12/2010,,110,2,3617,2137,1621,,80,4626,9/19/2018 11:20,Diesel,Manual,Auto,,silver
+354,Kia,E-Klasse,  2005_year ,9/30/2005,,107,2,3572,2094,1624,171660,79,977,9/12/2018 15:35,Benzin,Manual,Manual,,brown
+355,BMW,5,  2004_year ,6/18/2004,,138,2,3565,2215,1652,186832,101,2002,6/20/2018 9:26,Benzin,Manual,Manual,,brown
+356,Land Rover,C-Max,  2014_year ,7/4/2014,,136,2,3964,2128,1416,78616,100,13017,6/23/2018 9:05,Benzin,Auto_or_Hybrid,Manual,,brown
+357,Land Rover,Civic,  2004_year ,2/22/2004,,165,2,3530,2399,1459,206816,121,3182,7/16/2018 17:13,Benzin,Manual,Auto,,silver
+358,Dacia,Kuga,  2013_year ,4/12/2013,,96,2,3683,2145,1460,54504,70,11583,5/19/2018 11:44,Diesel,Auto_or_Hybrid,Auto,,white
+359,Citroen,500,  2006_year ,6/22/2006,,141,2,3550,2117,1418,106567,103,4357,7/9/2018 16:02,Benzin,Manual,Auto,,yellow
+360,Citroen,500,  2010_year ,2/24/2010,,221,2,3643,2137,1418,150646,163,9098,4/25/2018 10:48,Diesel,Auto_or_Hybrid,Auto,Big,red
+361,Kia,Evoque,  2007_year ,1/29/2007,,77,2,3494,2133,1488,130335,57,2329,7/6/2018 10:23,Benzin,Manual,Manual,,brown
+362,Fiat,C5,  2003_year ,5/16/2003,,220,1,3458,2375,1449,274401,161,3343,7/28/2018 17:57,Diesel,Auto_or_Hybrid,Auto,Big,red
+363,Dacia,Kuga,  2010_year ,9/23/2010,,190,2,3851,2255,1447,104596,140,9342,7/7/2018 10:18,Diesel,Manual,Auto,,black
+364,Kia,Evoque,  2009_year ,10/9/2009,,99,2,3584,2212,1488,80374,73,4582,6/14/2018 9:20,Benzin,Manual,Manual,,white
+365,MINI,Astra,  2014_year ,4/4/2014,1,136,2,4325,1865,1365,64036,100,19661,9/16/2018 12:26,Diesel,Auto_or_Hybrid,Auto,,white
+366,Land Rover,A5,  2009_year ,1/7/2010,,136,1,3757,1974,1436,141481,100,13918,9/26/2018 9:13,Benzin,Manual,Auto,Big,brown
+367,Suzuki,Touran,  2011_year ,6/15/2011,,106,2,3596,1982,1700,176040,79,4595,6/9/2018 14:48,Diesel,Auto_or_Hybrid,Auto,,brown
+368,BMW,CR-V,  2007_year ,8/8/2007,,162,2,3610,2317,1513,116526,119,3773,4/11/2018 16:26,Benzin,Manual,Auto,,red
+369,Fiat,C5,  2003_year ,1/14/2004,,154,2,3437,2186,1452,292451,113,2189,8/5/2018 9:37,Diesel,Manual,Auto,Big,red
+370,BMW,V 50,  2006_year ,8/24/2006,1,224,2,3804,2094,1726,240172,164,4090,9/4/2018 11:16,Diesel,Auto_or_Hybrid,Auto,Big,brown
+371,Skoda,MINI,  2007_year ,5/31/2007,,128,2,3460,2186,1615,140384,94,2564,9/9/2018 13:25,Benzin,Manual,Auto,,purple
+372,Land Rover,A5,  2006_year ,2/2/2006,,151,2,3857,2299,1428,137050,111,4525,7/21/2018 14:03,Benzin,Manual,Auto,,red
+373,Porsche,X1,  2011_year ,10/28/2011,,66,2,3780,2030,1490,29351,48,3655,7/14/2018 12:21,Benzin,Manual,,,purple
+374,Dacia,307,  2007_year ,3/31/2008,,93,2,3653,2350,1498,153707,69,2908,4/12/2018 10:57,Benzin,Manual,Auto,,red
+375,Citroen,500,  2000_year ,5/31/2000,,189,2,3581,2417,1369,298232,139,832,4/15/2018 12:18,Benzin,Manual,Auto,,purple
+376,Fiat,C-Klasse,  2011_year ,2/9/2011,,113,2,3820,2312,1459,116316,83,8838,7/26/2018 13:59,Diesel,Manual,Auto,,red
+377,BMW,Insignia,  2007_year ,4/11/2007,,188,2,3627,2132,1517,161979,138,3642,4/7/2018 13:52,Diesel,Manual,Auto,,green
+378,Fiat,Octavia,  2011_year ,10/25/2011,,105,2,3831,1995,1593,42227,78,9256,5/28/2018 14:27,Benzin,Manual,Manual,,red
+379,Citroen,500,  2003_year ,11/27/2003,,124,2,3411,2178,1415,168127,92,1078,9/28/2018 11:13,Benzin,Manual,Auto,,red
+380,Fiat,Corsa,  2012_year ,9/25/2012,1,469,1,4535,1626,1796,83037,345,35691,6/25/2018 17:28,Benzin,Auto_or_Hybrid,Auto,Big,red
+381,BMW,CR-V,  2005_year ,7/14/2005,,111,2,3616,2056,1485,133365,81,3472,7/25/2018 12:12,Diesel,Manual,Auto,,purple
+382,Citroen,500,  2009_year ,6/29/2009,,162,2,3676,2229,1418,245562,119,4357,5/13/2018 16:42,Diesel,Manual,Auto,,red
+383,Citroen,B-Klasse,  2010_year ,4/14/2010,1,301,2,4064,2031,1776,178993,222,14977,6/18/2018 17:54,Diesel,Auto_or_Hybrid,Auto,Big,purple
+384,??,A4,  2005_year ,8/30/2005,,100,1,3449,2386,1460,153476,73,1955,9/13/2018 9:05,Benzin,Manual,Manual,,purple
+385,Land Rover,A5,  2002_year ,3/11/2002,,150,2,3754,1990,1415,160031,110,3813,10/7/2018 9:46,Benzin,Manual,Auto,,red
+386,BMW,Insignia,  2011_year ,9/14/2011,1,177,2,3680,2167,1516,216681,130,7973,10/11/2018 8:56,Diesel,Auto_or_Hybrid,Auto,Big,gray
+387,BMW,Twingo,  2012_year ,3/15/2012,1,140,2,3768,2207,1703,216115,103,8165,10/19/2018 10:32,Diesel,Auto_or_Hybrid,Auto,Big,brown
+388,Fiat,C5,  2010_year ,4/14/2010,,204,2,3942,2091,1398,136063,151,18295,4/27/2018 15:07,Diesel,Auto_or_Hybrid,Auto,Big,red
+389,Volvo,XC 90,  2008_year ,8/1/2008,,326,2,4781,1781,1310,77396,240,50523,10/12/2018 11:38,Benzin,Auto_or_Hybrid,Auto,Big,white
+390,BMW,206,  2006_year ,11/7/2006,,87,2,3483,2313,1467,174095,64,2895,8/20/2018 13:20,Benzin,Manual,Auto,,purple
+391,Opel,Ibiza,  2012_year ,3/5/2012,,144,2,3674,2360,1471,166145,106,4487,5/20/2018 10:28,Diesel,Manual,Auto,Big,red
+392,Mercedes-Benz,Caddy,  2007_year ,3/1/2007,,53,2,3682,2159,1549,78157,40,1140,8/1/2018 17:32,Benzin,Auto_or_Hybrid,,,red
+393,Fiat,C-Klasse,  2011_year ,6/28/2011,,176,2,3847,2064,1459,147815,131,12783,7/20/2018 9:47,Benzin,Auto_or_Hybrid,Auto,Big,white
+394,Seat,Yaris,  2010_year ,3/9/2010,,104,1,3629,1984,1452,142514,76,3041,8/31/2018 14:53,Diesel,Manual,Auto,,brown
+395,BMW,Mondeo,  2011_year ,7/11/2011,,157,2,4073,1828,1720,82760,115,16214,6/9/2018 18:50,Benzin,Auto_or_Hybrid,Auto,,gray
+396,Peugeot,Golf IV,  2010_year ,12/7/2010,,124,2,3864,1999,1645,34310,90,9846,5/25/2018 16:28,Benzin,Manual,Auto,,red
+397,Fiat,Corsa,  2001_year ,1/2/2002,1,178,2,3589,2045,1820,306512,131,1798,5/10/2018 8:33,Diesel,Auto_or_Hybrid,Auto,,yellow
+398,Fiat,C5,  2009_year ,10/7/2009,,261,1,3675,2018,1393,304139,193,8693,7/8/2018 10:58,Diesel,Auto_or_Hybrid,Auto,Big,red
+399,Fiat,C-Klasse,  2006_year ,5/17/2006,,115,2,3782,2050,1406,85065,85,3936,10/22/2018 11:14,Benzin,Manual,Auto,,red
+400,Fiat,C-Klasse,  2006_year ,5/3/2006,,135,1,3665,1988,1426,177628,100,2878,8/26/2018 10:31,Diesel,Auto_or_Hybrid,Auto,,purple
+401,Land Rover,Civic,  2002_year ,5/16/2002,,133,2,3464,2423,1452,293949,98,983,7/12/2018 14:58,Benzin,Auto_or_Hybrid,Auto,,gray
+402,Citroen,500,  2006_year ,5/29/2006,,138,2,3626,1939,1418,77717,101,6015,9/7/2018 12:46,Benzin,Manual,Auto,,brown
+403,Fiat,Octavia,  2014_year ,2/27/2014,,145,2,4120,2090,1433,100789,107,18131,5/14/2018 15:15,Diesel,Auto_or_Hybrid,Manual,Big,silver
+404,Fiat,C-Klasse,  2012_year ,11/20/2012,,195,2,3821,1855,1406,63346,142,15034,5/18/2018 15:56,Benzin,Auto_or_Hybrid,Auto,Big,brown
+405,Citroen,Qashqai,  2011_year ,9/9/2011,1,239,2,4090,2217,1661,217643,176,14496,3/29/2018 14:17,Diesel,Auto_or_Hybrid,Auto,Big,red
+406,Nissan,Superb,  2003_year ,5/17/2003,1,167,2,3508,2364,1710,223377,122,3448,8/22/2018 17:20,Benzin,Manual,Manual,,brown
+407,Kia,Evoque,  2008_year ,8/1/2008,,173,2,3768,2248,1488,149216,127,3377,7/4/2018 17:06,Benzin,Manual,Auto,,red
+408,Citroen,500,  2006_year ,6/26/2006,,141,2,3617,2259,1440,238726,104,4723,8/18/2018 12:01,Diesel,Auto_or_Hybrid,Auto,Big,brown
+409,Dacia,Yeti,  2014_year ,7/17/2014,,112,2,3834,1875,1691,88061,82,8684,5/13/2018 10:44,Benzin,Auto_or_Hybrid,Manual,,brown
+410,Kia,A6,  2007_year ,3/16/2007,,119,2,3726,2440,1500,221318,87,1622,7/1/2018 13:11,Diesel,Manual,Auto,,red
+411,Citroen,500,  2007_year ,10/12/2007,,144,2,3665,2322,1420,98735,105,6490,6/26/2018 20:15,Benzin,Manual,Auto,Big,purple
+412,Audi,Sharan,  2011_year ,1/20/2012,,145,2,3814,2267,1626,73842,106,10711,7/31/2018 15:24,Benzin,Manual,Manual,,red
+413,Audi,RAV 4,  2012_year ,10/24/2012,1,126,2,3736,2106,1710,44453,93,13382,6/27/2018 11:30,Diesel,Auto_or_Hybrid,Auto,Big,white
+414,Citroen,500,  2000_year ,5/3/2000,,149,2,3384,2172,1415,233223,110,790,6/17/2018 15:52,Diesel,Manual,Auto,,silver
+415,BMW,Q5,  2011_year ,9/15/2011,,172,2,3709,2263,1480,68328,127,9114,4/19/2018 13:59,Diesel,Auto_or_Hybrid,Auto,,black
+416,Citroen,500,  2006_year ,7/12/2006,,118,2,3757,2073,1420,88273,86,4840,8/31/2018 13:32,Benzin,Manual,Manual,,red
+417,BMW,Insignia,  2005_year ,12/12/2005,,149,2,3513,2214,1517,199080,110,3644,8/14/2018 18:20,Diesel,Auto_or_Hybrid,Auto,Mobile,purple
+418,Fiat,C5,  2012_year ,6/21/2012,,171,2,3781,1867,1464,136824,125,14699,7/3/2018 14:32,Diesel,Auto_or_Hybrid,Auto,Big,red
+419,BMW,Q5,  2012_year ,4/4/2012,,217,2,3806,2254,1469,69709,160,11573,8/28/2018 14:09,Benzin,Manual,Auto,Big,red
+420,Fiat,Corsa,  2002_year ,4/19/2002,1,161,2,3693,2036,1820,388983,119,3908,10/6/2018 13:10,Diesel,Auto_or_Hybrid,Auto,Big,orange
+421,Land Rover,A5,  2001_year ,9/20/2001,,143,2,3683,2092,1428,196244,105,2622,9/9/2018 16:50,Benzin,Manual,Auto,,brown
+422,Mercedes-Benz,Caddy,  2012_year ,6/15/2012,,77,2,3548,2203,1542,87093,57,3694,8/4/2018 16:39,Benzin,Auto_or_Hybrid,Auto,Big,brown
+423,BMW,206,  2006_year ,1/2/2007,,58,2,3437,2342,1467,148395,43,1689,5/4/2018 8:34,Benzin,Manual,Manual,,black
+424,BMW,CR-V,  2009_year ,4/13/2010,,108,2,3800,2246,1504,153722,79,2881,5/25/2018 17:16,Benzin,Manual,Auto,,purple
+425,BMW,Megane,  2014_year ,6/11/2014,1,330,2,4104,1797,1436,23382,243,23660,5/21/2018 11:40,Benzin,Manual,Auto,,white
+426,BMW,Polo,  2012_year ,10/18/2012,,128,1,3937,1890,1621,79225,95,8974,4/30/2018 9:13,Benzin,Manual,Auto,,brown
+427,Honda,Zafira,  2003_year ,3/1/2003,,143,2,3698,2352,1533,201488,106,1162,8/11/2018 14:19,Benzin,Auto_or_Hybrid,Auto,,black
+428,Seat,Swift,  2014_year ,4/23/2014,,173,2,4128,2179,1484,40182,128,15718,6/21/2018 10:21,Diesel,Auto_or_Hybrid,Auto,Big,red
+429,Citroen,500,  2007_year ,6/12/2007,1,256,1,3586,2286,1395,124772,189,4999,5/28/2018 11:56,Diesel,Manual,Auto,,red
+430,Citroen,500,  2010_year ,7/2/2010,,233,1,3998,2045,1375,,171,9992,6/7/2018 17:29,Benzin,Auto_or_Hybrid,Auto,Big,purple
+431,Land Rover,XC 60,  2006_year ,5/19/2006,1,205,2,3901,2271,1737,177431,151,9988,7/16/2018 12:51,Diesel,Auto_or_Hybrid,Auto,Big,brown
+432,Audi,1er,  2008_year ,1/14/2009,,97,3,3712,2132,1497,227035,72,4999,5/15/2018 12:50,Benzin,Auto_or_Hybrid,Auto,Big,purple
+433,Fiat,C-Klasse,  2003_year ,0002-11-29,,160,2,3522,2241,1426,241255,117,1194,7/24/2018 11:59,Benzin,Manual,Auto,,purple
+434,Citroen,B-Klasse,  2014_year ,3/7/2014,1,328,2,4571,1697,1762,161476,242,33237,5/12/2018 14:28,Diesel,Auto_or_Hybrid,Auto,Big,red
+435,Seat,Leon,  2013_year ,4/2/2013,1,228,1,3947,1926,1784,91063,167,21225,8/26/2018 10:27,Diesel,Auto_or_Hybrid,Auto,Big,purple
+436,Kia,Evoque,  2009_year ,3/3/2009,,84,2,3656,2306,1488,53157,62,3263,6/2/2018 15:35,Benzin,Manual,Manual,,white
+437,Kia,Golf V,  2009_year ,4/21/2009,,146,1,3741,2164,1520,111826,107,6690,7/15/2018 14:21,Benzin,Manual,Auto,Big,brown
+438,Porsche,X1,  2001_year ,3/30/2001,,56,1,3503,2164,1480,155175,41,530,7/27/2018 10:32,Benzin,Manual,,,purple
+439,Fiat,C5,  2002_year ,6/10/2002,,282,2,3694,2052,1430,180551,208,4745,5/14/2018 11:46,Benzin,Auto_or_Hybrid,Auto,Big,silver
+440,Kia,Evoque,  2015_year ,9/4/2015,,234,2,3910,1828,1479,45728,172,12346,6/16/2018 14:47,Benzin,Manual,Auto,Big,white
+441,BMW,Twingo,  2011_year ,8/4/2011,1,132,2,3892,2115,1703,131722,97,12426,8/3/2018 14:16,Diesel,Auto_or_Hybrid,Auto,Big,gold
+442,Fiat,Corsa,  2007_year ,2/22/2007,1,244,2,3943,1992,1815,142506,179,8339,5/27/2018 12:27,Diesel,Auto_or_Hybrid,Auto,Big,brown
+443,Fiat,Corsa,  2010_year ,4/16/2010,1,198,2,3840,1868,1815,143805,145,14366,7/6/2018 15:02,Diesel,Auto_or_Hybrid,Auto,Big,white
+444,Citroen,500,  2005_year ,11/15/2006,,205,3,3634,2237,1418,253568,152,5447,4/20/2018 13:07,Diesel,Auto_or_Hybrid,Auto,Big,brown
+445,Ford,cee'd,  2010_year ,1/2/2012,,115,1,3659,2179,1670,74010,84,10543,9/18/2018 15:49,Benzin,Manual,Manual,,gray
+446,Dacia,Kuga,  2010_year ,9/23/2010,,106,2,3765,2255,1462,69129,78,7455,8/30/2018 9:56,Diesel,Manual,Auto,,white
+447,Citroen,M-Klasse,  2009_year ,9/17/2009,,163,2,3823,2138,1411,148790,120,7599,8/23/2018 19:02,Benzin,Manual,Front,,red
+448,Toyota,S 60,  2008_year ,2/11/2009,,98,2,3813,2356,1458,100190,72,3849,9/18/2018 12:34,Benzin,Manual,Auto,,purple
+449,Hyundai,X3,  2003_year ,2/12/2004,1,144,2,3564,2381,1695,145515,105,3068,6/30/2018 17:50,Benzin,Manual,Auto,,brown
+450,BMW,Insignia,  2001_year ,12/28/2001,,143,2,3702,2392,1498,318369,105,127,10/20/2018 15:09,Benzin,Manual,Auto,,brown
+451,Nissan,Superb,  2015_year ,3/31/2015,,121,2,3682,2130,1685,57974,89,11080,7/13/2018 16:29,Diesel,Manual,Auto,Big,brown
+452,Citroen,500,  2003_year ,7/17/2005,,201,2,3692,2099,1369,249496,147,3879,4/7/2018 11:36,Diesel,Manual,Auto,,red
+453,Seat,Grande Punto,  2007_year ,5/4/2007,,182,1,3510,2384,1488,54973,134,5406,9/5/2018 16:24,Diesel,Manual,Auto,,brown
+454,BMW,Q5,  2010_year ,11/1/2010,,122,2,3843,2062,1504,155392,90,4651,6/20/2018 13:38,Benzin,Manual,Auto,Big,gray
+455,Fiat,Octavia,  2000_year ,3/27/2000,,125,2,3569,2110,1575,195457,92,648,7/31/2018 14:15,Benzin,Manual,Manual,,red
+456,Citroen,207,  2006_year ,6/16/2006,1,205,2,3751,2139,1468,214432,152,4189,3/31/2018 18:26,Diesel,Auto_or_Hybrid,Auto,Big,purple
+457,Fiat,C-Klasse,  2006_year ,5/29/2006,,140,2,3769,1994,1426,163488,103,3740,8/8/2018 15:13,Diesel,Manual,Auto,,red
+458,BMW,Insignia,  2012_year ,8/27/2012,,113,2,3673,2298,1516,103609,83,7650,7/9/2018 10:13,Benzin,Manual,Auto,Big,gray
+459,Citroen,207,  2008_year ,5/28/2008,1,172,1,3574,2168,1482,185375,126,6149,8/27/2018 12:32,Diesel,Auto_or_Hybrid,Auto,Big,purple
+460,Land Rover,XC 60,  2006_year ,3/9/2006,1,243,2,3867,2167,1737,230681,179,5506,7/24/2018 10:07,Diesel,Auto_or_Hybrid,Auto,Big,brown
+461,Land Rover,A5,  2009_year ,5/13/2009,1,175,2,3748,2156,1436,183192,129,10326,7/15/2018 9:25,Diesel,Manual,Auto,Big,white
+462,Toyota,S 60,  2015_year ,12/8/2015,,273,2,3880,1980,1454,121247,201,18776,6/17/2018 19:18,Benzin,Auto_or_Hybrid,Auto,Big,brown
+463,Land Rover,C-Max,  2004_year ,7/9/2004,,103,2,3610,1998,1421,98848,75,2969,8/27/2018 10:35,Diesel,Manual,Auto,,red
+464,Ford,cee'd,  2012_year ,7/13/2012,,147,2,3850,2141,1670,94473,107,11304,7/5/2018 10:00,Benzin,Manual,Auto,,red
+465,Citroen,207,  2002_year ,9/24/2002,,154,2,3484,2279,1435,133296,114,3832,6/26/2018 11:20,Benzin,Auto_or_Hybrid,Auto,Big,purple
+466,BMW,CR-V,  2007_year ,11/1/2007,,115,2,3513,2184,1513,225672,84,1746,6/12/2018 8:21,Diesel,Manual,Manual,,brown
+467,Citroen,207,  2003_year ,5/27/2004,,202,1,3421,2339,1445,183060,148,1960,5/30/2018 14:22,Diesel,Auto_or_Hybrid,Auto,,red
+468,Toyota,Vectra,  2014_year ,7/30/2014,,102,1,3663,2044,1428,116868,75,4753,8/21/2018 13:35,Benzin,Manual,Auto,Big,black
+469,Dacia,Kuga,  2004_year ,8/5/2004,,128,2,3775,2076,1413,182891,95,3804,5/20/2018 16:46,Diesel,Manual,Auto,Big,red
+470,Fiat,C5,  2009_year ,3/31/2009,,190,2,4014,1944,1464,202483,139,8129,6/4/2018 11:25,Diesel,Auto_or_Hybrid,Auto,Big,red
+471,Kia,E-Klasse,  2010_year ,12/14/2010,,129,2,3738,2109,1615,89615,95,6133,6/20/2018 11:07,Benzin,Manual,Auto,,purple
+472,Kia,Golf V,  2011_year ,1/3/2012,1,161,2,3641,2265,1520,124263,118,6538,4/28/2018 17:56,Diesel,Auto_or_Hybrid,Auto,Big,gray
+473,Land Rover,A5,  2004_year ,2/13/2004,,142,2,3746,2363,1428,201795,104,2460,9/22/2018 12:23,Benzin,Manual,Auto,Big,red
+474,Fiat,Corsa,  2005_year ,4/27/2005,1,168,2,3670,2128,1820,237152,123,4398,5/24/2018 13:16,Diesel,Auto_or_Hybrid,Auto,Big,purple
+475,Nissan,Duster,  2010_year ,4/1/2010,,115,2,3567,2199,1460,115347,84,6483,5/9/2018 9:56,Benzin,Manual,Auto,,brown
+476,BMW,Touareg,  2006_year ,2/28/2007,,127,2,3963,2192,1990,218905,94,7615,4/23/2018 10:51,Diesel,Manual,Manual,Big,red
+477,Dacia,T5,  2015_year ,3/30/2015,1,191,2,4054,1915,1529,102810,141,14711,6/4/2018 14:00,Diesel,Auto_or_Hybrid,Auto,Big,white
+478,Land Rover,Civic,  2001_year ,7/6/2001,,162,2,3674,2075,1453,121532,119,2138,6/25/2018 11:32,Benzin,Auto_or_Hybrid,Auto,,silver
+479,Citroen,500,  2008_year ,3/19/2008,,124,2,3721,2397,1418,202029,91,3711,7/23/2018 15:57,Diesel,Manual,Auto,Big,purple
+480,Skoda,fortwo,  2004_year ,11/23/2004,,109,2,3468,2285,1435,154118,80,1320,9/6/2018 8:32,Benzin,Manual,Auto,,purple
+481,Dacia,307,  2012_year ,10/30/2012,,,2,3604,2358,1498,16746,61,6470,7/5/2018 16:07,Benzin,Manual,Manual,,brown
+482,Land Rover,A5,  2000_year ,5/9/2001,,165,3,3637,2163,1428,252405,121,1057,5/12/2018 12:26,Diesel,Manual,Auto,,red
+483,Fiat,C-Klasse,  2013_year ,7/12/2013,,132,2,3896,2072,1447,54854,98,17201,7/13/2018 14:34,Benzin,Auto_or_Hybrid,Auto,Big,brown
+484,Skoda,MINI,  2009_year ,7/21/2009,,163,2,3711,2020,1615,124802,120,7003,6/21/2018 17:43,Benzin,Manual,Auto,,blue
+485,Dacia,307,  2006_year ,5/11/2007,,88,2,3684,2122,0,170567,65,1769,8/6/2018 10:01,Benzin,Manual,Manual,,brown
+486,Citroen,207,  2007_year ,2/21/2007,,190,2,3734,2204,1491,294149,139,2600,5/16/2018 14:13,Diesel,Auto_or_Hybrid,Auto,Big,silver
+487,Audi,Passat,  2000_year ,3/30/2000,,54,1,3527,2171,1334,122617,40,137,5/24/2018 13:46,Benzin,Manual,Manual,,purple
+488,BMW,Insignia,  2001_year ,10/4/2001,,90,2,3672,2089,1498,183871,66,1175,5/29/2018 13:16,Benzin,Manual,Auto,,red
+489,Dacia,Kuga,  2009_year ,11/5/2009,1,139,2,3854,2040,1533,148158,103,7592,7/26/2018 17:40,Benzin,Manual,Auto,,silver
+490,Land Rover,Civic,  2011_year ,9/15/2011,1,261,2,4120,1785,1455,84361,192,17747,9/27/2018 11:26,Diesel,Auto_or_Hybrid,Auto,Big,purple
+491,Land Rover,V 70,  2010_year ,10/25/2010,1,271,1,3775,2141,1653,188085,199,12484,6/20/2018 15:32,Diesel,Auto_or_Hybrid,Auto,Big,purple
+492,Toyota,S 60,  2007_year ,10/26/2007,,235,2,3621,2151,1458,134504,173,5252,7/8/2018 8:26,Benzin,Manual,Auto,,white
+493,Porsche,Golf VI,  2006_year ,3/27/2006,,80,1,3526,2042,1490,124934,58,1628,7/28/2018 13:10,Diesel,Manual,Manual,,brown
+494,Mercedes-Benz,Caddy,  2000_year ,8/17/2000,,60,1,3411,2103,1549,112814,45,268,5/15/2018 11:28,Benzin,Auto_or_Hybrid,,,black
+495,Audi,1er,  2002_year ,2/14/2003,,110,2,3462,2074,1532,195770,81,99,6/3/2018 13:28,Diesel,Manual,Auto,,purple
+496,Nissan,Superb,  2014_year ,6/17/2014,,115,2,3788,2092,1685,92926,85,13054,6/17/2018 11:02,Diesel,Manual,Auto,,white
+497,Land Rover,V 70,  2009_year ,7/27/2009,1,249,2,3897,1874,1653,174254,182,10891,9/23/2018 14:35,Diesel,Auto_or_Hybrid,Auto,Big,brown
+498,Toyota,S 60,  2014_year ,2/12/2014,,149,1,4073,2144,1444,70702,110,15519,10/25/2018 8:36,Benzin,Manual,Auto,Big,red
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
